@@ -1,5 +1,5 @@
 name 'workstation'
-maintainer 'The Authors'
+maintainer 'Robin'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures workstation'
